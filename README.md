@@ -25,7 +25,7 @@ MariaDB or MySQL listens to the default port number 3306.
 
 Open MariaDB console and run these SQL script to populate the database user, create database "rmit_store_db", the table "store" and populate rows in the table.
 ```
-$ mysql
+$ sudo mysql
 
 MariaDB > CREATE USER 'db_admin'@'localhost' IDENTIFIED BY 'rmit_password';
 MariaDB > GRANT ALL PRIVILEGES ON *.* TO 'db_admin'@'localhost';
