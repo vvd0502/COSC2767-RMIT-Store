@@ -66,7 +66,7 @@ You need to fork this Github repo first to your Github account.
 You need to install git and git clone the github repo to the directory "/var/www/html/" as it is the default root folder of the Apache web server.
 ```
 sudo yum install -y git
-git clone <your-git-repo-url> /var/www/html/
+sudo git clone <your-git-repo-url> /var/www/html/
 ```
 
 In the file index.php located in the website directory, we got this PHP script to connect to the MariaDB database.
