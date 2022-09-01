@@ -85,7 +85,7 @@ Note: Notice the "localhost" and change it accordingly!
 Open the website via the public IP address or the domain name via the default port http 80!
 
 Behold, it's time to buy some RMIT glorious merchandise!
-<img src="https://i.imgur.com/xNHx6Ue.png">
+<img src="https://i.imgur.com/YBUd8Ol.png">
 
 Profit💸💰! Sweet and simple to deploy this website!
 
