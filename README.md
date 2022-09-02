@@ -39,7 +39,7 @@ MariaDB > INSERT INTO store (Name, Price, ImageUrl) VALUES ("Fairtrade Pocket Ho
 
 MariaDB > exit
 ```
-Note: Notice the "localhost" and change it accordingly!
+Note: Notice the "localhost" and change it accordingly if the database is not in the same server with Apache!
 
 ## ⚙️ 3. Install PHP and php-mysql module
 
@@ -78,7 +78,7 @@ $link = mysqli_connect(
     "rmit_store_db"
 );
 ```
-Note: Notice the "localhost" and change it accordingly!
+Note: Notice the "localhost" and change it accordingly if the database is not in the same server with Apache!
 
 ## 💻 6. Open the website
 
