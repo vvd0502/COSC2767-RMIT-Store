@@ -1,6 +1,6 @@
 # RMIT Store 🛍️
 <p align="center">
-    <img src="https://i.imgur.com/OtlK2qU.png" width=600>
+    <img src="https://i.imgur.com/e6H7HA3.jpg" width=900>
 </p>
 
 This is the RMIT Store built on the classic but still popular LAMP stack (Linux, Apache, MySQL, PHP).
