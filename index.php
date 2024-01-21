@@ -92,7 +92,7 @@
               $link = mysqli_connect(
                   "localhost",
                   "db_admin",
-                  "rmit_password",
+                  "rmit_pa",
                   "rmit_store_db"
               );
               if ($link) {
